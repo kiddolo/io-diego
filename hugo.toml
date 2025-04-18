@@ -1,0 +1,17 @@
+baseURL = "https://tuodominio.com/"
+languageCode = "it-it"
+title = "io-diego"
+theme = "PaperMod"
+
+[params]
+  author = "Diego Remaggi"
+  showReadingTime = true
+  showCodeCopyButtons = true
+  defaultTheme = "auto" # dark, light, auto
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1

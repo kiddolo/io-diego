@@ -1,0 +1,26 @@
+# Hugo build output
+/public/
+/resources/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# IDEs & editors
+.idea/
+.vscode/
+*.swp
+
+# Logs & temp
+*.log
+*.tmp
+*.bak
+
+# Node/npm stuff (in caso lo usi per styling extra)
+node_modules/
+
+# Submodules can have their own .git dirs
+themes/*/.git
+
+# Netlify deployment folder (se ne usi uno separato)
+.netlify/
