@@ -2,7 +2,9 @@ baseURL = "https://tuodominio.com/"
 languageCode = "it-it"
 title = "io-diego"
 theme = "PaperMod"
-paginate = 10
+
+[pagination]
+  pagerSize = 10
 
 [params]
   author = "Diego Remaggi"
