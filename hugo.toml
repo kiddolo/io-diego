@@ -1,4 +1,4 @@
-baseURL = "https://io-diego.netlify.app/""
+baseURL = "https://io-diego.netlify.app/"
 languageCode = "it-it"
 title = "io-diego"
 theme = "PaperMod"
