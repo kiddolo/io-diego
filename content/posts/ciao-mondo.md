@@ -1,7 +1,7 @@
-+++
-title = "Ciao ciao"
-date = 2025-04-18T16:31:09+02:00
-draft = false
-+++
+---
+title: "Ciao mondo"
+date: 2025-04-18T17:30:00+02:00
+draft: false
+---
 
-Sto provando con sta cavolo di AI a fare un blog con Hugo!
+Benvenuto nel mio blog PaperMod pubblicato su Netlify!
