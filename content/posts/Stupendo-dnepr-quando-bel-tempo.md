@@ -2,7 +2,6 @@
 date = '2025-04-18T19:30:20+02:00'
 draft = false
 title = 'Stupendo è il Dnepr quando è bel tempo'
-cover = "/images/dnepr-bel-tempo.webp"
 +++
 “Quante parole sono proibite!
 A dire il vero, tutte le parole belle hanno perso i sensi.
